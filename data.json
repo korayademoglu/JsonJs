@@ -1,0 +1,14 @@
+{
+    "kullanicilar": [
+        {
+            "name": "Koray",
+            "surname": "Ademoğlu",
+            "age": 29
+        },
+        {
+            "name": "Veli",
+            "surname": "Ademoğlu",
+            "age": 22
+        }
+    ]
+}
